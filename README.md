@@ -20,8 +20,9 @@
 </p>
 -->
 
-<h3>Angular</h3>
+<h3>TypeScript</h3>
 
 
 https://user-images.githubusercontent.com/90001688/139599912-67562b40-f348-4ce5-9237-c6f4ed10ba34.mp4
 
+<h3>Angular</h3>
