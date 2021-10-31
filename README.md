@@ -22,7 +22,6 @@
 
 <h3>Angular</h3>
 
-![image]https://user-images.github.com/roberth89/Files/blob/main/241560221_262301838911759_3933586193977132835_n.mp4
 
-<!--https://user-images.githubusercontent.com/58986949/115314310-805b2780-a1a7-11eb-8558-648a367ea231.mp4-->
+https://user-images.githubusercontent.com/90001688/139599912-67562b40-f348-4ce5-9237-c6f4ed10ba34.mp4
 
