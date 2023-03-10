@@ -21,19 +21,13 @@
 -->
 
 <h3>TypeScript</h3>
-
-
 https://user-images.githubusercontent.com/90001688/139599912-67562b40-f348-4ce5-9237-c6f4ed10ba34.mp4
 
 <h3>Dart + Flutter</h3>
-
-
-
-
 https://user-images.githubusercontent.com/90001688/142136787-ab7209a5-3210-47ea-bb48-fc79708ab539.mp4
 
 <h3>Python</h3>
-
+https://user-images.githubusercontent.com/90001688/224211346-58c0fbe9-9602-4f35-931b-7885cb0d6a9c.mp4
 
 
 
